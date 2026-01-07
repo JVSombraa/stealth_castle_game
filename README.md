@@ -5,8 +5,9 @@ A small stealth game made with **Pygame Zero**. Sneak into an abandoned castle, 
 ## 📦 Installation
 
 1. Install Python 3  
-2. Install Pygame Zero: 'pip install pgzero'
-3. Clone or download this repository
+2. Install Pygame: 'pip install pygame'
+3. Install Pygame Zero: 'pip install pgzero'
+4. Clone or download this repository
 
 ## ▶️ How to Play
 
